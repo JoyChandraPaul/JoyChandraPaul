@@ -25,7 +25,6 @@ A passionate learner from Bangladesh
 </p>
 
 
----
 
 <!-- ===================== ABOUT ===================== -->
 ## 🚀 About Me
