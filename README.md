@@ -1,7 +1,8 @@
-<p><h1>Hello World, I'm <i></i>Joy Chandra Paul</i></i>👋</h1>
-<h3>A passionate learner from Bangladesh </h3></p>
+<h1 align="center">Hello World, I'm <i></i>Joy Chandra Paul</i>👋</h1>
+<h3 align="center">A passionate learner from Bangladesh </h3>
 
 <!-- ===================== ABOUT ===================== -->
+<br>
 <h3>About Me</h3>
 
 - Passionate about developing scalable web applications using Laravel & PHP.
