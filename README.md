@@ -3,7 +3,7 @@
 
 <!-- ===================== ABOUT ===================== -->
 <br>
-<h3>About Me</h3>
+<h3>ℹ️ About Me</h3>
 
 - Passionate about developing scalable web applications using Laravel & PHP.
 - Currently working with Authentication, RBAC, and API development.  
