@@ -11,9 +11,9 @@
 A passionate learner from Bangladesh  
 </h3>
 
-<p align="center">
+<!-- <p align="center">
 Building scalable business applications, ERP systems, and RESTful APIs with clean architecture and maintainable code.
-</p>
+</p> -->
 
 ---
 
