@@ -39,12 +39,8 @@ A passionate learner from Bangladesh
 ---
 
 <!-- ===================== SKILLS ===================== -->
-## 🛠 Tech Stack
-
-**Backend:** Laravel, PHP  
-**Database:** MySQL  
-**Frontend:** HTML, CSS, JavaScript, Bootstrap  
-**Tools:** Git, GitHub, Postman, VS Code  
+Tech Stack:
+Laravel • PHP • MySQL • JavaScript • Bootstrap • Git • GitHub 
 
 ---
 
