@@ -1,4 +1,3 @@
-<!-- ===================== BANNER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Backend%20Developer%20%7C%20Laravel&fontSize=35&fontColor=ffffff" />
 </p>
@@ -9,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Joy Chandra</h1>
 
 <h3 align="center">
-Backend Developer | Laravel | PHP | MySQL
+A passionate learner from Bangladesh 
 </h3>
 
 <p align="center">
