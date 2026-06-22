@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=abc>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Backend%20Developer%20%7C%20Laravel&fontSize=35&fontColor=ffffff" />
 </p>
 
 ---
