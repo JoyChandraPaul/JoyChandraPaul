@@ -54,26 +54,6 @@ Building scalable business applications, ERP systems, and RESTful APIs with clea
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
-## 📂 Featured Projects
-
-### 📌 ERP Management System
-- Role-based access control (Admin / Manager / Employee)
-- Inventory & sales management
-- REST API integration
-
-### 📌 Sales & Inventory System
-- Product tracking system
-- Order management
-- Reporting dashboard
-
-### 📌 Authentication System
-- Login/Register system
-- JWT / session based auth
-- Secure role handling
-
----
-
 <!-- ===================== STATS ===================== -->
 ## 📊 GitHub Stats
 
