@@ -5,7 +5,7 @@
 ---
 
 <!-- ===================== INTRO ===================== -->
-<h1 align="center">Hi 👋, I'm Joy Chandra</h1>
+<h1 align="center">Hi There👋,<br> I'm Joy Chandra</h1>
 
 <h3 align="center">
 A passionate learner from Bangladesh  
