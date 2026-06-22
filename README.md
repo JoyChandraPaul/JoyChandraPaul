@@ -39,13 +39,13 @@ A passionate learner from Bangladesh
 ---
 
 <!-- ===================== SKILLS ===================== -->
-Tech Stack:
-• Laravel 
-• PHP 
-• MySQL 
-• JavaScript 
-• Bootstrap 
-• Git 
+Tech Stack: <br>
+• Laravel <br>
+• PHP <br>
+• MySQL <br>
+• JavaScript <br>
+• Bootstrap <br>
+• Git <br>
 • GitHub 
 
 ---
