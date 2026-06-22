@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, I'm <i>Joy Chandra Paul</i>👋</h1>
+<h1 align="center">Hello there, I'm <i>Joy Chandra Paul</i>👋</h1>
 <h3 align="center">A passionate learner from Bangladesh </h3>
 
 <!-- ===================== ABOUT ===================== -->
