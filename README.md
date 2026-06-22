@@ -15,8 +15,6 @@ A passionate learner from Bangladesh
 Building scalable business applications, ERP systems, and RESTful APIs with clean architecture and maintainable code.
 </p> -->
 
----
-
 
 <p align="center">
   <a href="https://github.com/JoyChandraPaul">
